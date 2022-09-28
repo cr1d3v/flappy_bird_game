@@ -33,11 +33,12 @@ During the GamePlay!
 ```
 To Run the Application:
 Navigate toward -> 
-\..\Flappy-Bird-Clone-Game\FYP-Artifact-Sub\Game_executable\FYP Artifact.exe
+\..\flappyBirdClone\FYP - Artifact Sub\Game .exe file\FYP Artifact.exe
+
 
 To inspect the code: 
 Navigate toward -> 
-\..\Flappy-Bird-Clone-Game\FYP-Artifact-Sub\ArtifactFYP\':root folder, contains the .sln files'
+\..\flappyBirdClone\FYP - Artifact Sub\ArtifactFYP\':root folder, contains the .sln files'
 
 Other info:
 Within the 'ArtifactFYP' folder there's also the “Assets” folder.
