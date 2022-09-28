@@ -1,0 +1,9 @@
+Endless flying bird game
+
+to make game harder - change the 'gravity scale' to a bigger value which will result in the game object falling faster
+this will then allow us to considerably increase the jumping speed as the player now falls faster thus it can jump faster as well
+
+simple yet effective strategy to make a game like flappy bird harder
+
+after every feature was added the game was replayed constantly just so I can double check that there are no existent errors in place
+as such I managed to detect a number of errors throughout the process and fix them as I moved along the development process.
