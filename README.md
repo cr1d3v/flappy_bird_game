@@ -32,16 +32,22 @@ During the GamePlay!
 
 ```
 To Run the Application:
-Navigate toward -> \..\Flappy-Bird-Clone-Game\FYP-Artifact-Sub\Game_executable\FYP Artifact.exe
+Navigate toward -> 
+\..\Flappy-Bird-Clone-Game\FYP-Artifact-Sub\Game_executable\FYP Artifact.exe
 
 To inspect the code: 
-Navigate toward -> \..\Flappy-Bird-Clone-Game\FYP-Artifact-Sub\ArtifactFYP\ 'this is the root folder thus contains the .sln files'
+Navigate toward -> 
+\..\Flappy-Bird-Clone-Game\FYP-Artifact-Sub\ArtifactFYP\':root folder, contains the .sln files'
 
 Other info:
-Within the 'ArtifactFYP' folder there's also the “Assets” folder that in essence is the brain of the entire project
-the following contains the classes, resources such as sounds, graphics,
-game add-ons such as greenPipingObj and ScoringPeremiterObj within the game,
-as well as the saved flapping actions and scenes.
+Within the 'ArtifactFYP' folder there's also the “Assets” folder.
+In essence this is the brain of the entire project as the following
+contains:
+
+* the classes,
+* resources such as sounds, graphics,
+* game add-ons such as greenPipingObj and ScoringPeremiterObj within the game,
+* saved flapping actions and scenes.
 ```
 ---
 
