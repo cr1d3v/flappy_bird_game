@@ -21,7 +21,7 @@ Main Menu!
 
 During the GamePlay!
 ---
-<img src = "./other/demo2.PNG" width="650" height="350">
+<img src = "./other/demo 2.PNG" width="650" height="350">
 
 ## Stack
 
