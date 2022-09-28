@@ -12,16 +12,16 @@ PS: Please note, the 'Leader Board' button is not working, it was a feature that
 
 ## Demo
 
-Hey 👋, I left some screengrabs below, showing the game in action!
+Hey 👋, I left some screengrabs below, showcasing the game in action!
 
 Main Menu!
 ---
-<img src = "./other/demo2.PNG" width="650" height="350">
+<img src = "./other/demo1.PNG" width="650" height="350">
 
 
 During the GamePlay!
 ---
-<img src = "./other/demo1.PNG" width="650" height="350">
+<img src = "./other/demo2.PNG" width="650" height="350">
 
 ## Stack
 
@@ -34,10 +34,14 @@ During the GamePlay!
 To Run the Application:
 Navigate toward -> \..\Flappy-Bird-Clone-Game\FYP-Artifact-Sub\Game_executable\FYP Artifact.exe
 
-Alternatively, to inspect the code: 
+To inspect the code: 
 Navigate toward -> \..\Flappy-Bird-Clone-Game\FYP-Artifact-Sub\ArtifactFYP\ 'this is the root folder thus contains the .sln files'
 
-Within the 'ArtifactFYP' folder there's also the “Assets” folder which in essence is the brain of the entire project and contains the classes, resources such as sounds, graphics, game add-ons such as greenPipingObj and ScoringPeremiterObj within the game as well as the saved flapping actions and scenes.
+Other info:
+Within the 'ArtifactFYP' folder there's also the “Assets” folder that in essence is the brain of the entire project
+the following contains the classes, resources such as sounds, graphics,
+game add-ons such as greenPipingObj and ScoringPeremiterObj within the game,
+as well as the saved flapping actions and scenes.
 ```
 ---
 
