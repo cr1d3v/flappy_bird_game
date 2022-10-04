@@ -2,13 +2,13 @@
 
 [https://github.com/cr1d3v](https://github.com/cr1d3v)
 
-## About The Project
+## The Project Idea
 
 This is a [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird) clone game developed from scratch. The game contains new features such as customizable skins, a new world, re-designed score counter, etc. As well as, shares numerous similarities with the original flappy bird game. The game was developed in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) with the help of [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) game engine. 
 
 During the development life cycle the game brought back some great childhood memories. It is truly fascinating how such a simple yet addictive product was created with little to no marketing pushes and managed to strike and become an all-time hit. 
 
-## Stack
+## Tech Stack
 
 - [C# - Programming Language](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) - A general-purpose programming language designed by Microsoft.
 - [Unity - Game Engine](https://unity.com/) - A cross-platform game engine developed by Unity Technologies.
